@@ -1,5 +1,13 @@
-$color: #777;
+$primary-color: #777;
+
+* {
+  box-sizing: border-box;
+}
 
 body {
-  background-color: $color;
+  background-color: $primary-color;
+  color: #fff;
+  height: 100%;
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
