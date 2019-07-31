@@ -447,6 +447,10 @@ main#home h1 {
   main#home h1 {
     margin-top: 10vh;
   }
+  .lg-heading {
+    margin-top: 1rem;
+    font-size: 5rem;
+  }
   .projects {
     -ms-grid-columns: 1fr;
         grid-template-columns: 1fr;
